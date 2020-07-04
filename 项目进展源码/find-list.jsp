@@ -3,7 +3,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-	<title> ${webSiteTitle} 招领信息页面 </title>
+	<title> ${webSiteTitle} 招领信息页 </title>
 	<%@include file="common/base-meta.jsp"%>
 	<meta name="viewport" content="width=device-width, initial-scale=0.5, minimum-scale=0.5, maximum-scale=0.5, user-scalable=no">
 	<%@include file="common/base-css-js.jsp"%>
